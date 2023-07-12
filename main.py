@@ -49,7 +49,7 @@ app = Client("yt", bot_token=token, api_id = api_id, api_hash = api_hash)
 BOT_TOKEN = token
 CHANNEL = ""
 OWNER = 5108562302
-con3 = 
+con3 = +11111111111
 
 @app.on_message(ay.command("start"))
 async def st(client,message):
